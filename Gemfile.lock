@@ -269,6 +269,14 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+<<<<<<< HEAD
+  minitest
+  test-unit
+
+BUNDLED WITH
+   1.14.6
+=======
 
 BUNDLED WITH
    2.0.2
+>>>>>>> main
